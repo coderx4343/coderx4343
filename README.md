@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coderx4343
-- 👀 I’m interested in C programming
-- 🌱 I’m currently started learning C programming
+- 👀 I’m interested in Full Stack Development 
+- 🌱 I’m currently started learning Angular 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kannangk4343@gmail.com
 
