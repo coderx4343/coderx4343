@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @coderx4343
+- 👋 Hi, I’m @coderx4343 aliase Kannan G
 - 👀 I’m interested in Full Stack Development 
 - 🌱 I’m currently started learning Angular 
 - 💞️ I’m looking to collaborate on ...
